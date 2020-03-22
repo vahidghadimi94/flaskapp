@@ -8,6 +8,6 @@ pip install flask-mysql
 
 for creating registration form you must install wtf
 
-pip install wtf
+pip install flask-wtf
 
 
